@@ -21,3 +21,4 @@
 [Linkedin Profile:] (https://www.linkedin.com/in/sri-vasavi-vipparla-22ba81126/)
 
 [Github Profile:] (https://github.com/Srivasavi-vipparla)
+[44563 course syllabus:] (https://denisecase.github.io/44-563-webapps-syllabus/)
