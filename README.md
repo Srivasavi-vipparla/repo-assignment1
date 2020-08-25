@@ -4,10 +4,20 @@
 
 ## Education
 
-Currently I am pursuing Masters in Applied Computer Science 
+1 . Currently I am pursuing Masters in Applied Computer Science 
 
-## Job Experience
+2 . I have completed my Undergraduation in kits ,Guntur,India.
 
-I have two years of job experience in Software Field
+## Things I am very much interested to do :
 
-![WorkLocation](https://www.google.com/search?q=virtusa+india+hyderabad+address&rlz=1C1GCEA_enUS914US914&sxsrf=ALeKk00RFM-H01DF6JfojACp8cDWq_rRDw:1598322907191&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj_gfroqLXrAhUIeKwKHVpfASkQ_AUoA3oECA0QBQ&biw=1280&bih=578)
+1 . cooking
+
+2 . Drawing
+
+3 . Singing
+
+4 . Travelling
+
+[Linkedin Profile:](https://www.linkedin.com/in/sri-vasavi-vipparla-22ba81126/)
+
+[Github Profile:](https://github.com/Srivasavi-vipparla)
