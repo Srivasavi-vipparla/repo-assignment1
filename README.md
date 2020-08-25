@@ -25,6 +25,7 @@
 
 ## Fav Dish
 
+![oven-baked-chicken-thighs-1-2](https://user-images.githubusercontent.com/69984398/91119578-224a6480-e659-11ea-9e6f-a049dcf7da36.jpg)
 
 ## Links
 [Linkedin Profile:] (https://www.linkedin.com/in/sri-vasavi-vipparla-22ba81126/)
