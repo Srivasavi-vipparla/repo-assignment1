@@ -2,11 +2,11 @@
  Introducing Myself
 
 
-##Education
+## Education
 
 Currently I am pursuing Masters in Applied Computer Science 
 
-##Job Experience
+## Job Experience
 
 I have two years of job experience in Software Field
 
