@@ -33,7 +33,8 @@
 [Taare Zameen Par Poster reference :] (https://user-images.githubusercontent.com/69984398/91119245-60935400-e658-11ea-8110-f4ff1f625602.jpg)
 
 
-[Chicken receipe reference:] (https://user-images.githubusercontent.com/69984398/91119578-224a6480-e659-11ea-9e6f-a049dcf7da36.jpg0
+[Chicken receipe reference:] (https://user-images.githubusercontent.com/69984398/91119578-224a6480-e659-11ea-9e6f-a049dcf7da36.jpg0)
+
 [44563 course syllabus:] (https://denisecase.github.io/44-563-webapps-syllabus/)
 
 [favorite Movie:] (https://www.youtube.com/results?search_query=taare+zameen+par)
