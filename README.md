@@ -18,6 +18,6 @@
 
 4 . Travelling
 
-[Linkedin Profile:](https://www.linkedin.com/in/sri-vasavi-vipparla-22ba81126/)
+[Linkedin Profile:] (https://www.linkedin.com/in/sri-vasavi-vipparla-22ba81126/)
 
-[Github Profile:](https://github.com/Srivasavi-vipparla)
+[Github Profile:] (https://github.com/Srivasavi-vipparla)
